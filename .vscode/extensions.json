@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "dongli.python-preview",
+        "innoverio.vscode-dbt-power-user",
+        "ms-azuretools.vscode-docker"
+    ]
+}
