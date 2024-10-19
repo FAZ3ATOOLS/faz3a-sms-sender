@@ -72,6 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Invalid API Credentials**: Make sure the API key and secret are correctly entered.
 - **Failed to Send SMS**: Ensure your internet connection is stable and that the phone numbers are valid.
 
----
 
-This `README` should give users a clear understanding of how to install, configure, and use the **FAZ3A SMS Sender** tool for their SMS sending needs.
+##CONTACT
+🔗 **FAZ3A SMS SENDER Developed By**: [@faz3ateamjo](https://t.me/faz3ateamjo)  
+📢 **Stay Updated**: [@FAZ3ATEAMJOchannel](https://t.me/FAZ3ATEAMJOchannel)
